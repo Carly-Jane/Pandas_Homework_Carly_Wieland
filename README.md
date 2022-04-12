@@ -1,4 +1,21 @@
 # Pandas_Homework_Carly_Wieland
+
+* You must include a written description of at least two observable trends based on the data.
+
+Observation 1:
+Surprisingly enough, from the 15 schools sampled, our data shows that the higher the per student budget is, the lover the average percentage of students passing both Math and Reading. 
+
+Observation 2:
+Small and Medium sized schools [Small (<1000), Medium (1000-2000)] have a remarkably similar percentage of students passing both Math and Reading (89.88% and 90.62% respectively), however Large schools [Large (2000-5000)] have a significantly lower percentage of students passing both Math and Reading, at just 58.29%
+
+Observation 3:
+When ranking the schools by the percentage of students passing both Math and Reading, the top 5 schools are all “Charter” schools, whereas the bottom 5 schools are all “District” schools. This division is reinforced when we review the percentage of students passing both Math and Reading between Charter and District schools, with the percentage passing overall for Charter schools being 90.43%, compared to District schools being just 53.67%.
+
+Final observation: 
+From the above information, imagining the school names were blank, we can assume the most successful school would be a Charter School, small to medium in size (less than 2000 students), with a comparatively low budget per student.
+This aligns with the top performing school in our sample, Cabrera High School, a Charter School, medium in size at just 1858 students (medium being between 1000 and 2000), with $582.00 budget per student which aligns with our lowest budget per student bracket ("< $584").
+
+
 Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
